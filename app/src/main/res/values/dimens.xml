@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen  name="design_navigation_icon_padding" tools:override="true">2dp</dimen>
+    <dimen name="design_bottom_navigation_icon_size" tools:override="true">24dp</dimen>
+    <!--    covidDimens-->
+    <!--    circle-->
+
+    <dimen name="quote_icons">@dimen/_20sdp</dimen>
+    <!--gernal-->
+    <dimen name="app_small_text">@dimen/_11sdp</dimen>
+    <dimen name="app_normal_text">@dimen/_14sdp</dimen>
+    <dimen name="app_heading_text">@dimen/_16sdp</dimen>
+
+<!--    margins-->
+    <dimen name="margin_small">@dimen/_6sdp</dimen>
+    <dimen name="margin_average">@dimen/_12sdp</dimen>
+    <!--    boxes-->
+
+
+    <!--cramfrenzy gernal-->
+    <!--homefragment fragment caRD margin-->
+    <!--bidcard caRD margin top-->
+    <!--bidcard caRD margin bottom-->
+    <!--more fragment caRD margin-->
+    <!--app normal textsize-->
+
+    <!--catergoryimages dimens-->
+
+
+    <!--cramfrenzy margings -->
+
+    <!--crampadding-->
+
+
+    <!--oldcram-->
+
+
+    <!--CourseFrenzy Dimens-->
+
+
+    <!--Dimens On More Option-->
+    
+    
+    <!--Now Dimens For ADD AN EVENT -->
+    
+    <!--Now Dimens To View Added Events-->
+
+
+    <!--Now Dimens For my_cart layout-->
+    
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>

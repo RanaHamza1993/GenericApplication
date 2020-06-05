@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bot_path"
+        android:icon="@drawable/ic_path"
+        android:title="Cast"
+        android:iconTint="@color/white"
+        />
+    <item
+        android:id="@+id/bot_quotes"
+        android:icon="@drawable/ic_quotes"
+        android:title="Quotes"
+        android:iconTint="@color/white"
+        />
+    <item
+        android:id="@+id/bottom_fav"
+        android:title="Favourites"
+        android:icon="@drawable/ic_heart_fill"
+        android:iconTint="@color/white" />
+    <item
+        android:id="@+id/bottom_seasons"
+        android:title="Seasons"
+        android:icon="@drawable/botnav_iv_seasons"
+        android:iconTint="@color/white" />
+
+
+</menu>
